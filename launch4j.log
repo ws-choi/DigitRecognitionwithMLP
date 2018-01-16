@@ -1,0 +1,31 @@
+
+
+Version:	3.10
+CmdLine:	D:\myrepos\Digit Recognition with MLP\MLP 기반 숫자 인식기.exe --l4j-debug
+WOW64:		yes
+Working dir:	D:\myrepos\Digit Recognition with MLP\.
+Java min ver:	1.6.0
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_111\bin\javaw.exe (OK)
+Match:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_111
+Check launcher:	C:\Program Files\Java\jre1.8.0_111\bin\javaw.exe (OK)
+Match:		1.8.0_111
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.7
+Ignore:		1.7
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.7.0_71
+Ignore:		1.7.0_071
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_111
+Ignore:		1.8.0_111
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.8.0_111 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_111\bin\javaw.exe
+Launcher args:	-jar "D:\myrepos\Digit Recognition with MLP\MLP 기반 숫자 인식기.exe"
+Args length:	69/32768 chars
+Exit code:	0
