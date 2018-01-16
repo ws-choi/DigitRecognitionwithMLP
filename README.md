@@ -7,7 +7,7 @@
  - [MLP 기반 숫자 인식기.exe](https://github.com/ws-choi/DigitRecognitionwithMLP/raw/master/MLP%20%EA%B8%B0%EB%B0%98%20%EC%88%AB%EC%9E%90%20%EC%9D%B8%EC%8B%9D%EA%B8%B0.exe)
  
 ## 데이터 (다운로드가 안될 시 우클릭후 다른 이름으로 링크 저장, 또는 내용을 전체 복사하여 메모장에 붙여넣은 후 파일저장)
- - [트레이닝 데이터](https://github.com/ws-choi/DigitRecognitionwithMLP/blob/master/data/Training%20Data.txt)
+ - [트레이닝 데이터](https://github.com/ws-choi/DigitRecognitionwithMLP/raw/master/data/Training%20Data.txt)
  - [테스트 데이터](https://github.com/ws-choi/DigitRecognitionwithMLP/raw/master/data/testset.txt)
  
 ## 사용방법
